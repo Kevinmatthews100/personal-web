@@ -6,8 +6,8 @@ Repository for my personal website, built with [SvelteKit](https://kit.svelte.de
 
 ### Project Requirements
 
-- [Node.js](https://formulae.brew.sh/formula/nvm) v16
-- [pnpm](https://formulae.brew.sh/formula/pnpm)
+- [Node.js](https://github.com/nvm-sh/nvm) v16 (nvm recommended)
+- [pnpm](https://pnpm.io/)
 
 ### Resolve project dependencies
 
