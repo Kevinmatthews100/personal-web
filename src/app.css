@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  overflow-y: scroll;
+}
+
+a {
+  color: #32bdd9;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border-color: rgba(229, 231, 235);
+}
+
+.video {
+  padding-top: 56.25%;
+}
