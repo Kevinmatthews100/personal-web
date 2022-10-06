@@ -6,7 +6,7 @@
   <title>Kev</title>
 </svelte:head>
 
-<div class="max-w-5xl mx-auto mt-4 lg:mt-24">
+<div class="max-w-5xl mx-auto mt-4 lg:mt-8">
   <div class="flex flex-col items-center space-y-4 p-4">
     <img class="w-64 rounded-3xl" src="/images/profile-pic.jpg" alt="Profile" />
     <div class="flex flex-row mx-auto mb-4 w-56">
