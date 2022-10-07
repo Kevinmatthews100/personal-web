@@ -1,11 +1,10 @@
 <h1 class="text-4xl mb-4">Music</h1>
 <p class="mb-4">
   I am a 2020 Penn State graduate, where I studied music technology, and tuba under
-  <a href="https://velvetuba.com" target="_blank"> Velvet Brown </a>
-  . Having been part of the
-  <a href="https://pennstatetubaeuph.com/" target="_blank"> Penn State Tuba Euphonium studio </a>
-  , and having surrounded myself with so many talented low brass players in college, much of my music is written for tuba,
-  euphonium, and trombone.
+  <a href="https://velvetuba.com" target="_blank"> Velvet Brown</a>. Having been part of the
+  <a href="https://pennstatetubaeuph.com/" target="_blank"> Penn State Tuba Euphonium studio</a>, and having surrounded
+  myself with so many talented low brass players in college, much of my music is written for tuba, euphonium, and
+  trombone.
 </p>
 <p class="mb-4">
   My first piece "Horizons" for tuba euphonium ensemble was premiered at the 2019 International Tuba Euphonium
@@ -14,14 +13,14 @@
   electronic instruments in collaboration with Penn State's School of Visual Arts. As a recording studio engineer at
   Penn State's School of Music, I worked with musicians to track and mix high quality recordings in a professional
   recording studio environment. Also, I have been commissioned to write arrangements of pop tunes for
-  <a href="https://www.instagram.com/keepoutbrassband/" target="_blank"> The Keep Out Brass Band </a>
-  , who perform at Knoebels Amusement Park in Elysburg Pennsylvania.
+  <a href="https://www.instagram.com/keepoutbrassband/" target="_blank"> The Keep Out Brass Band</a>, who perform at
+  Knoebels Amusement Park in Elysburg Pennsylvania.
 </p>
 <p class="mb-4">
   Currently, I am working the soundtrack for the upcoming video game
   <a href="https://twitter.com/PineDrake/status/1346882073018175488?s=20" target="_blank"> The Phantom Keeper </a> over
   at
-  <a href="http://pinedrakegames.com/" target="_blank"> Pine Drake Games </a>.
+  <a href="http://pinedrakegames.com/" target="_blank"> Pine Drake Games</a>.
 </p>
 <h2 class="text-3xl mb-4">Horizons</h2>
 <p class="mb-4">
@@ -30,7 +29,7 @@
   of the literal colors seen when looking at the sky during these times of day and night, as well as inspiration from
   possible symbolic interpretations of this kind of change: the end of one thing, transformation, and the start of
   another. Score and instrument parts are avalible for purchase at
-  <a href="https://potenzamusic.com/product/horizons-for-tuba-euphonium-ensemble/" target="_blank"> Potenza Music </a>
+  <a href="https://potenzamusic.com/product/horizons-for-tuba-euphonium-ensemble/" target="_blank"> Potenza Music</a>
   .
 </p>
 <iframe
