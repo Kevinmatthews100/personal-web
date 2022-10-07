@@ -3,8 +3,7 @@
   I am a 2020 Penn State graduate, where I studied music technology, and tuba under
   <a href="https://velvetuba.com" target="_blank"> Velvet Brown</a>. Having been part of the
   <a href="https://pennstatetubaeuph.com/" target="_blank"> Penn State Tuba Euphonium studio</a>, and having surrounded
-  myself with so many talented low brass players in college, much of my music is written for tuba, euphonium, and
-  trombone.
+  myself with many talented low brass players in college, much of my music is written for tuba, euphonium, and trombone.
 </p>
 <p class="mb-4">
   My first piece "Horizons" for tuba euphonium ensemble was premiered at the 2019 International Tuba Euphonium
