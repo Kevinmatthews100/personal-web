@@ -15,12 +15,6 @@
   <a href="https://www.instagram.com/keepoutbrassband/" target="_blank"> The Keep Out Brass Band</a>, who perform at
   Knoebels Amusement Park in Elysburg Pennsylvania.
 </p>
-<p class="mb-4">
-  Currently, I am working the soundtrack for the upcoming video game
-  <a href="https://twitter.com/PineDrake/status/1346882073018175488?s=20" target="_blank"> The Phantom Keeper </a> over
-  at
-  <a href="http://pinedrakegames.com/" target="_blank"> Pine Drake Games</a>.
-</p>
 <h2 class="text-3xl mb-4">Horizons</h2>
 <p class="mb-4">
   "Horizons" is a three movement piece for Tuba Euphonium ensemble takes the listener through the transformation the sky
