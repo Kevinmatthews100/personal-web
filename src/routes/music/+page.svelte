@@ -1,4 +1,4 @@
-<h1 class="text-3xl mb-4 xl:text-4xl">Music</h1>
+<h1 class="text-4xl mb-4">Music</h1>
 <p class="mb-4">
   I am a 2020 Penn State graduate, where I studied music technology, and tuba under
   <a href="https://velvetuba.com" target="_blank"> Velvet Brown </a>
@@ -23,7 +23,7 @@
   at
   <a href="http://pinedrakegames.com/" target="_blank"> Pine Drake Games </a>.
 </p>
-<span class="text-xl mb-4 xl:text-2xl">Horizons</span>
+<h2 class="text-3xl mb-4">Horizons</h2>
 <p class="mb-4">
   "Horizons" is a three movement piece for Tuba Euphonium ensemble takes the listener through the transformation the sky
   makes from the end of one day, to the beginning the next. In writing this music, I drew inspiration from my impression
@@ -63,7 +63,7 @@
   allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/618819816%3Fsecret_token%3Ds-XFouynViR5P&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"
 />
-<span class="text-xl mb-4 xl:text-2xl">Through the Dark</span>
+<span class="text-3xl mb-4">Through the Dark</span>
 <p class="mb-4">
   Through the Dark is a piece for Tuba, Electronics, Piano, and Percussion. It was commissioned by the tuba player, and
   good friend, heard in the recording below.
@@ -78,7 +78,7 @@
   allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/901808749%3Fsecret_token%3Ds-ae155TFxZ9O&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"
 />
-<span class="text-xl mb-4 xl:text-2xl">Song of Antecedence</span>
+<h2 class="text-3xl mb-4">Song of Antecedence</h2>
 <p class="mb-4">
   This piece is a minimalist piece for piano and tuba. It was written to challenge the idea that solo tuba music must be
   technically challenging to be considered a valid piece of repertoire. The recording below features my college tuba
@@ -95,7 +95,7 @@
   allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/902333935%3Fsecret_token%3Ds-kbF0FzYCZai&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"
 />
-<span class="text-xl mb-4 xl:text-2xl"> Since you scrolled this far... </span>
+<h2 class="text-3xl mb-4">Since you scrolled this far...</h2>
 <p class="mb-4">
   Take a chance to check out this episode in College Marching's "Take the Field" documentary series made while I was in
   Penn State's marching band in 2018. I look back fondly on playing in the band, and I think this documentary does a

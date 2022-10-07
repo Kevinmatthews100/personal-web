@@ -6,17 +6,17 @@
   <title>Kev</title>
 </svelte:head>
 
-<div class="max-w-5xl mx-auto mt-4 lg:mt-8">
+<div class="max-w-4xl mx-auto mt-4">
   <div class="flex flex-col items-center space-y-4 p-4">
     <img class="w-64 rounded-3xl" src="/images/profile-pic.jpg" alt="Profile" />
     <div class="flex flex-row mx-auto mb-4 w-56">
-      <a href="https://www.instagram.com/kmatthews10/" target="_blank" class="mx-auto">
+      <a href="https://www.instagram.com/kmatthews10" target="_blank" class="mx-auto">
         <img src="/images/insta.png" class="w-10 h-10" alt="Instagram" />
       </a>
       <a href="https://github.com/Kevinmatthews100" target="_blank" class="mx-auto">
         <img src="/images/github.png" class="w-10 h-10" alt="Github" />
       </a>
-      <a href="https://www.linkedin.com/in/kevin-matthews-54a486192/" target="_blank" class="mx-auto">
+      <a href="https://www.linkedin.com/in/kevin-matthews-54a486192" target="_blank" class="mx-auto">
         <img src="/images/lin.png" class="w-10 h-10" alt="Linkedin" />
       </a>
     </div>
@@ -27,7 +27,7 @@
     </div>
   </div>
 
-  <main class="p-4 mx-auto">
+  <main class="p-4 mx-auto max-w-2xl lg:max-w-none">
     <slot />
   </main>
 </div>

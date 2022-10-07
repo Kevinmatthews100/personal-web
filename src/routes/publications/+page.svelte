@@ -1,4 +1,4 @@
-<h1 class="text-3xl mb-4 xl:text-4xl">Publications</h1>
+<h1 class="text-4xl mb-4">Publications</h1>
 <a
   class="block mb-4"
   href="https://potenzamusic.com/product/horizons-for-tuba-euphonium-ensemble/"
