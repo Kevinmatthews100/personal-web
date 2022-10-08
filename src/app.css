@@ -27,7 +27,3 @@ h2 {
 p {
   @apply my-2;
 }
-
-.video {
-  padding-top: 56.25%;
-}
