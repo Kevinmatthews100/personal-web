@@ -16,6 +16,18 @@ a:hover {
   text-decoration: underline;
 }
 
+h1 {
+  @apply my-2 text-4xl;
+}
+
+h2 {
+  @apply mt-4 mb-2 text-3xl;
+}
+
+p {
+  @apply my-2;
+}
+
 .video {
   padding-top: 56.25%;
 }
