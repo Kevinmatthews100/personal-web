@@ -17,7 +17,7 @@ a:hover {
 }
 
 h1 {
-  @apply my-2 text-4xl;
+  @apply my-4 text-5xl;
 }
 
 h2 {

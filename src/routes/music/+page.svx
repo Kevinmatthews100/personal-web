@@ -70,7 +70,7 @@ This piece is a minimalist piece for piano and tuba. It was written to challenge
 Take a chance to check out this episode in College Marching's "Take the Field" documentary series made while I was in Penn State's marching band in 2018. I look back fondly on playing in the band, and I think this documentary does a fantastic job illustrating why.
 
 <iframe
-  class='mx-auto mt-4'
+  class="w-full mx-auto mt-4"
   width="840"
   height="472.5"
   src="https://www.youtube.com/embed/RT2NiqEBpkM"
