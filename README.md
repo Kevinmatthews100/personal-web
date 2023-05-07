@@ -1,5 +1,7 @@
 # kmatthews.dev
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7729bbe1-2254-4610-823a-3483aa1316d4/deploy-status)](https://app.netlify.com/sites/kmatthews-personal-web/deploys)
+
 My personal site built with [Astro](https://astro.build).
 
 ## Requirements
