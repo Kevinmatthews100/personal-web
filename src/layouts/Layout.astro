@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Kev</title>
+  </head>
+  <body class="flex flex-col items-center space-y-4 p-4 lg:p-8 bg-stars bg-center text-white">
+    <div class="flex flex-col justify-center items-center space-x-4 space-y-4 lg:flex-row lg:space-y-0">
+      <img class="hidden lg:block" src="/images/under-construction.gif" />
+      <h1 class="text-4xl text-center text-blue-500 font-bold lg:text-6xl">Welcome to my web site!</h1>
+      <img src="/images/under-construction.gif" />
+    </div>
+    <p class="text-white">Best viewed in Netscape Navigator 3.0+</p>
+    <img class="max-w-[20rem] w-full" src="/images/profile.jpg" />
+    <div class="flex flex-row mx-auto mb-4 w-56">
+      <a href="https://www.instagram.com/kmatthews10" target="_blank" class="mx-auto">
+        <img src="/images/insta.png" class="w-10 h-10" alt="Instagram" />
+      </a>
+      <a href="https://github.com/Kevinmatthews100" target="_blank" class="mx-auto">
+        <img src="/images/github.png" class="w-10 h-10" alt="Github" />
+      </a>
+      <a href="https://www.linkedin.com/in/kevin-matthews-54a486192" target="_blank" class="mx-auto">
+        <img src="/images/lin.png" class="w-10 h-10" alt="Linkedin" />
+      </a>
+    </div>
+    <div class="flex space-x-4 text-2xl font-bold">
+      <a class="hover:underline" href="/">Home</a>
+      <a class="hover:underline" href="/publications">Publications</a>
+      <a class="hover:underline" href="/music">Music</a>
+    </div>
+    <main class="prose prose-p:text-white prose-invert max-w-4xl !mt-8">
+      <slot />
+    </main>
+    <img src="/images/dino.gif" />
+  </body>
+</html>
+
+<style is:global>
+  html {
+    background-color: black;
+    overflow-y: scroll;
+  }
+</style>

@@ -1,3 +1,7 @@
+---
+layout: ./../layouts/Layout.astro
+---
+
 # Music
 
 I am a 2020 Penn State graduate, where I studied music technology, and tuba under [Velvet Brown](https://velvetuba.com). Having been part of the Penn State Tuba Euphonium studio, and having surrounded myself with many talented low brass players in college, much of my music is written for tuba, euphonium, and trombone.
@@ -5,6 +9,7 @@ I am a 2020 Penn State graduate, where I studied music technology, and tuba unde
 My first piece "Horizons" for tuba euphonium ensemble was premiered at the 2019 International Tuba Euphonium Conference in Iowa. Since then, I've written music for tuba, electronics, piano, and brass band. In addition to classical composition, I have worked on a variety of collaborative projects. I worked on a video game soundtrack for electronic instruments in collaboration with Penn State's School of Visual Arts. As a recording studio engineer at Penn State's School of Music, I worked with musicians to track and mix high quality recordings in a professional recording studio environment. Also, I have been commissioned to write arrangements of pop tunes for [The Keep Out Brass Band](https://www.instagram.com/keepoutbrassband), who perform at Knoebels Amusement Park in Elysburg Pennsylvania.
 
 ## Horizons
+
 "Horizons" is a three movement piece for Tuba Euphonium ensemble takes the listener through the transformation the sky makes from the end of one day, to the beginning the next. In writing this music, I drew inspiration from my impression of the literal colors seen when looking at the sky during these times of day and night, as well as inspiration from possible symbolic interpretations of this kind of change: the end of one thing, transformation, and the start of another. Score and instrument parts are avalible for purchase at [Potenza Music](https://potenzamusic.com/product/horizons-for-tuba-euphonium-ensemble).
 
 <iframe
@@ -39,7 +44,9 @@ My first piece "Horizons" for tuba euphonium ensemble was premiered at the 2019 
 />
 
 ## Through the Dark
+
 Through the Dark is a piece for Tuba, Electronics, Piano, and Percussion. It was commissioned by the tuba player, and good friend, heard in the recording below.
+
 <iframe
   title="Through the Dark"
   class="mb-4"
@@ -52,6 +59,7 @@ Through the Dark is a piece for Tuba, Electronics, Piano, and Percussion. It was
 />
 
 ## Song of Antecedence
+
 This piece is a minimalist piece for piano and tuba. It was written to challenge the idea that solo tuba music mus be technically challenging to be considered a valid piece of repertoire. The recording below features my college tuba professor, Velvet Brown. Spitfire strings have also been added to this recording, but are not required for performance.
 
 <iframe
