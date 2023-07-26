@@ -6,33 +6,37 @@
     <meta name="generator" content={Astro.generator} />
     <title>Kev</title>
   </head>
-  <body class="flex flex-col items-center space-y-4 p-4 text-white lg:p-8">
-    <div class="flex flex-col items-center justify-center space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0">
-      <img class="hidden lg:block" src="/images/under-construction.gif" />
-      <h1 class="text-center text-4xl font-bold text-blue-500 lg:text-6xl">Welcome to my web site!</h1>
-      <img src="/images/under-construction.gif" />
-    </div>
-    <p class="text-white">Best viewed in Netscape Navigator 3.0+</p>
-    <img class="w-full max-w-[20rem]" src="/images/profile.webp" />
-    <div class="mx-auto flex w-56 flex-row">
-      <a href="https://www.instagram.com/kmatthews10" target="_blank" class="mx-auto">
-        <img src="/images/insta.webp" class="h-10 w-10" alt="Instagram" />
-      </a>
-      <a href="https://github.com/Kevinmatthews100" target="_blank" class="mx-auto">
-        <img src="/images/github.webp" class="h-10 w-10" alt="Github" />
-      </a>
-      <a href="https://www.linkedin.com/in/kevin-matthews-54a486192" target="_blank" class="mx-auto">
-        <img src="/images/lin.webp" class="h-10 w-10" alt="Linkedin" />
-      </a>
-    </div>
-    <div class="flex space-x-4 text-2xl font-bold">
-      <a class="hover:underline" href="/">Home</a>
-      <a class="hover:underline" href="/publications">Publications</a>
-      <a class="hover:underline" href="/music">Music</a>
-    </div>
-    <main class="prose prose-invert !mt-8 max-w-4xl prose-p:text-white">
+  <body class="p-4 text-white lg:p-8">
+    <header class="flex flex-col items-center space-y-4">
+      <div class="flex flex-col items-center justify-center space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0">
+        <img class="hidden lg:block" src="/images/under-construction.gif" />
+        <h1 class="text-4xl font-bold text-blue-500 lg:text-6xl">Welcome to my web site!</h1>
+        <img src="/images/under-construction.gif" />
+      </div>
+      <p>Best viewed in Netscape Navigator 3.0+</p>
+      <img class="w-full max-w-[20rem]" src="/images/profile.webp" />
+      <div class="mx-auto flex w-56 justify-between">
+        <a href="https://www.instagram.com/kmatthews10" target="_blank">
+          <img src="/images/insta.webp" class="h-10 w-10" alt="Instagram" />
+        </a>
+        <a href="https://github.com/Kevinmatthews100" target="_blank">
+          <img src="/images/github.webp" class="h-10 w-10" alt="Github" />
+        </a>
+        <a href="https://www.linkedin.com/in/kevin-matthews-54a486192" target="_blank">
+          <img src="/images/lin.webp" class="h-10 w-10" alt="Linkedin" />
+        </a>
+      </div>
+      <nav class="flex space-x-4 text-2xl font-bold">
+        <a class="hover:underline" href="/">Home</a>
+        <a class="hover:underline" href="/publications">Publications</a>
+        <a class="hover:underline" href="/music">Music</a>
+      </nav>
+    </header>
+    <main class="prose prose-invert mx-auto mt-8 max-w-4xl prose-p:text-white">
       <slot />
     </main>
-    <img src="/images/dino.gif" />
+    <footer class="mt-4">
+      <img class="mx-auto" src="/images/dino.gif" />
+    </footer>
   </body>
 </html>
