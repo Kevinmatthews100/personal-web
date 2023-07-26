@@ -1,28 +1,28 @@
 <!DOCTYPE html>
-<html class="bg-stars bg-center bg-black overflow-y-scroll" lang="en">
+<html class="overflow-y-scroll bg-black bg-stars bg-center" lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>Kev</title>
   </head>
-  <body class="flex flex-col items-center space-y-4 p-4 lg:p-8 text-white">
-    <div class="flex flex-col justify-center items-center space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0">
+  <body class="flex flex-col items-center space-y-4 p-4 text-white lg:p-8">
+    <div class="flex flex-col items-center justify-center space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0">
       <img class="hidden lg:block" src="/images/under-construction.gif" />
-      <h1 class="text-4xl text-center text-blue-500 font-bold lg:text-6xl">Welcome to my web site!</h1>
+      <h1 class="text-center text-4xl font-bold text-blue-500 lg:text-6xl">Welcome to my web site!</h1>
       <img src="/images/under-construction.gif" />
     </div>
     <p class="text-white">Best viewed in Netscape Navigator 3.0+</p>
-    <img class="max-w-[20rem] w-full" src="/images/profile.webp" />
-    <div class="flex flex-row mx-auto w-56">
+    <img class="w-full max-w-[20rem]" src="/images/profile.webp" />
+    <div class="mx-auto flex w-56 flex-row">
       <a href="https://www.instagram.com/kmatthews10" target="_blank" class="mx-auto">
-        <img src="/images/insta.webp" class="w-10 h-10" alt="Instagram" />
+        <img src="/images/insta.webp" class="h-10 w-10" alt="Instagram" />
       </a>
       <a href="https://github.com/Kevinmatthews100" target="_blank" class="mx-auto">
-        <img src="/images/github.webp" class="w-10 h-10" alt="Github" />
+        <img src="/images/github.webp" class="h-10 w-10" alt="Github" />
       </a>
       <a href="https://www.linkedin.com/in/kevin-matthews-54a486192" target="_blank" class="mx-auto">
-        <img src="/images/lin.webp" class="w-10 h-10" alt="Linkedin" />
+        <img src="/images/lin.webp" class="h-10 w-10" alt="Linkedin" />
       </a>
     </div>
     <div class="flex space-x-4 text-2xl font-bold">
@@ -30,7 +30,7 @@
       <a class="hover:underline" href="/publications">Publications</a>
       <a class="hover:underline" href="/music">Music</a>
     </div>
-    <main class="prose prose-p:text-white prose-invert max-w-4xl !mt-8">
+    <main class="prose prose-invert !mt-8 max-w-4xl prose-p:text-white">
       <slot />
     </main>
     <img src="/images/dino.gif" />
