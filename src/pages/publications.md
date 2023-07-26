@@ -1,5 +1,5 @@
 ---
-layout: '@/layouts/layout.astro'
+layout: '@/layouts/main.astro'
 ---
 
 # Publications
