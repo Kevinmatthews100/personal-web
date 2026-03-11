@@ -1,3 +1,7 @@
+---
+import '../tailwind.css';
+---
+
 <!doctype html>
 <html class="overflow-y-scroll bg-black bg-stars bg-center" lang="en">
   <head>
@@ -8,7 +12,7 @@
   </head>
   <body class="p-4 text-white lg:p-8">
     <header class="flex flex-col items-center space-y-4">
-      <div class="flex flex-col items-center space-x-0 space-y-4 lg:flex-row lg:space-x-4 lg:space-y-0">
+      <div class="flex flex-col items-center space-y-4 space-x-0 lg:flex-row lg:space-y-0 lg:space-x-4">
         <img class="hidden lg:block" src="/images/under-construction.gif" />
         <h1 class="text-center text-4xl font-bold text-blue-500 lg:text-6xl">Welcome to my web site!</h1>
         <img src="/images/under-construction.gif" />
@@ -34,7 +38,7 @@
         <a class="hover:underline" href="/music">Music</a>
       </nav>
     </header>
-    <main class="prose prose-invert mx-auto mt-8 max-w-4xl text-white">
+    <main class="mx-auto prose mt-8 max-w-4xl text-white prose-invert">
       <slot />
     </main>
     <footer class="mt-4">

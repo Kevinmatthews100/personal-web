@@ -6,7 +6,7 @@ My personal site built with [Astro](https://astro.build).
 
 ## Requirements
 
-- [Node.js v18](https://nodejs.org/en)
+- [Node.js v24](https://nodejs.org/en)
 - [pnpm](https://pnpm.io)
 
 ## Local Development
